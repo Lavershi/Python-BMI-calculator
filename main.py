@@ -1,7 +1,7 @@
-name =  "fill this up with your name"
-height_m = " your height in meters"
-weight_kg = " you weight in kilograms"
-
+# put your name and highet in meters and your weight in kilograms
+name =  
+height_m = 
+weight_kg = 
 bmi = weight_kg / (height_m ** 2)
 
 print("bmi: ")
